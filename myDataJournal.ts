@@ -1,3 +1,8 @@
+/**
+ * Github repo: https://github.com/IdanSSch/cs81-module4b-mydataexplorer
+ * A JavaScript compiled version is on the repo.
+ */
+
 class DataEntry {
     day : string; // Day of the week.
     sleepHours : number; // In hours.

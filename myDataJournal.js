@@ -1,3 +1,7 @@
+/**
+ * Github repo: https://github.com/IdanSSch/cs81-module4b-mydataexplorer
+ * A JavaScript compiled version is on the repo.
+ */
 class DataEntry {
     day; // Day of the week.
     sleepHours; // In hours.
@@ -80,6 +84,6 @@ function analyzeData() {
     console.log(`Does more caffeine mean better focus? ${correlateCaffeineToFocus() ? "Yep." : "...not really."}`);
 }
 /**
- * Prediction: Most screen time was Thursday, best focus day was Sunday, and caffeine... sometimes helps.
+ * Prediction: Most screen time was Thursday, best focus day was Sunday, and caffeine... sometimes helps. Not usually.
  */
 analyzeData();
